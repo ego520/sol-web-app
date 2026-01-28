@@ -42,7 +42,8 @@
         "@solana-mobile/mobile-wallet-adapter-protocol-web3js": "link:./js/packages/mobile-wallet-adapter-protocol-web3js",
         "@solana-mobile/wallet-adapter-mobile": "link:./js/packages/wallet-adapter-mobile",
         "@solana-mobile/wallet-standard-mobile": "link:./js/packages/wallet-standard-mobile",
-        "postcss": "^8.4.31"
+        "postcss": "^8.4.31",
+        "@solana/web3.js": "^1.98.0"
     },
     "devDependencies": {
         "eslint-plugin-simple-import-sort": "^7.0.0",
